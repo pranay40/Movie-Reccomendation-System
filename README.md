@@ -10,3 +10,4 @@ A content that reccomends you the movie based on your genres.
 - Then applied feature extraction to process data in numerical dataset
 - For pairing used cosine similarity
 - Then used pickle library for serializing and deserializing
+- Then web.py is the code for the localhost web version.
